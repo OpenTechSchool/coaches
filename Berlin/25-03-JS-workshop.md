@@ -9,3 +9,5 @@ Where? **Neue Nachbarschaft Moabit** <br/>
 
 Coach Meeting: 10.30h
 
+Material: http://opentechschool.github.io/js-beginners-1/26
+Be sure you review the material before the event!
